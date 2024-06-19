@@ -21,13 +21,7 @@ https://github.com/Slieyn/Module_7_SILINGU577__Group_A_Silindokuhle-Ngubane_SDF0
 https://github.com/Slieyn/Module_6_SILINGU577__Group_A_Silindokuhle-Ngubane_SDF06
 https://github.com/Slieyn/SDF_Portfolio_Piece_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF11
 
-My Tool Box: ⚡
-<img src="https://github.com/devicons/devicons/blob/master/icons/javascript/javascript=original.svg" alt="JavaScript.logo">
-Skills: 
-HTML
-CSS
-CSS Tailwind 
-JavaScript
+In this journey of learning how to code, I am willing to keep on researching,practicing in order for me to fully undertand the skills I have learnt. 
 
 In the projects I have added above I have learnt the basic skills,that has 
 given me a foundation of software development. 
