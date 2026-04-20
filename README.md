@@ -1,30 +1,33 @@
-- 👋 Hi, I’m @Slieyn
-- 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on Microsoft
-- 📫 How to reach me on github.com/Slieyn
-- 😄 Pronouns:Her
-- ⚡ Fun fact: I love making Tiktoks
+# Hi, I'm Silindokuhle (Sliey) 👩🏾‍💻
 
-I am a Software Developer @CodeSpace! I am really excited to embark in this beautiful journey of learning how to code. - 👀
-I have learnt not to limit myself when it comes to self empowerment. 
-With technology evolving each and everyday,I don't want ot miss a day. 
-Learning keeps me on my toes, and I am willing to take it to the top! 
-As they say,"The Sky Is The Limit", and so it is with CODE!.......😄
+- 🚀 Junior Frontend Developer based in Johannesburg
+- 💻 Skilled in Vue.js, HTML, CSS  TypeScript, JavaScript and React
+- 🎓 Software Development graduate — CodeSpace Academy (2025)
+- 🌱 Currently building: a Vue 3 job application tracker with Kanban board & Pinia
+- 🎯 Open to junior dev roles, internships & collaborations
+- 🎬 Content creator on TikTok & Instagram on the side
+- 😄 Pronouns: she/her
+- 📫 Reach me: [linkedin.com/in/silindokuhle-ngubane-2850b3211](https://linkedin.com/in/silindokuhle-ngubane-2850b3211)
 
-MY WORK!😄
-Here is some of the projects I have completed:
-https://github.com/Slieyn/Module_10_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF10
-https://github.com/Slieyn/Module_9_SILINGU577_Group_A_Silindokuhle-Ngubane_SDF09
-https://github.com/Slieyn/Module_8_SILINGU577_Group_A_Silindokuhle-Ngubane_SDF08
-https://github.com/Slieyn/Module_7_SILINGU577__Group_A_Silindokuhle-Ngubane_SDF07
-https://github.com/Slieyn/Module_6_SILINGU577__Group_A_Silindokuhle-Ngubane_SDF06
-https://github.com/Slieyn/SDF_Portfolio_Piece_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF11
+---
 
-In this journey of learning how to code, I am willing to keep on researching,practicing in order for me to fully undertand the skills I have learnt. 
+## 🛠️ Tech Stack
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-In the projects I have added above I have learnt the basic skills,that has 
-given me a foundation of software development. 
-Slieyn/Slieyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Job Tracker App](https://github.com/Slieyn) | Vue 3 · Pinia · Kanban board · Dark mode |
+| [SDF Portfolio Piece](https://github.com/Slieyn/SDF_Portfolio_Piece_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF11) | Frontend capstone project — CodeSpace Academy |
+| [Module 10](https://github.com/Slieyn/Module_10_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF10) | JavaScript project |
+| [Module 9](https://github.com/Slieyn/Module_9_SILINGU577_Group_A_Silindokuhle-Ngubane_SDF09) | JavaScript fundamentals |
+
+---
+
+*The sky is the limit — and so it is with code.* ✨
