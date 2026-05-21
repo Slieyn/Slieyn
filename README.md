@@ -1,9 +1,10 @@
 # Hi, I'm Silindokuhle (Sliey) 👩🏾‍💻
 
 - 🚀 Junior Frontend Developer based in Johannesburg
-- 💻 Skilled in Vue.js, HTML, CSS  TypeScript, JavaScript and React
+- 💻 Skilled in Vue.js, HTML, CSS  TypeScript, JavaScript, React and C#
+- 📚I am currenctly At Dynamic DNA for a Systems Development. 
 - 🎓 Software Development graduate — CodeSpace Academy (2025)
-- 🌱 Currently building: a Vue 3 job application tracker with Kanban board & Pinia
+- 🌱 Currently building: a Vue 3 job application tracker with Kanban board & Pinia, Job Application tracker.
 - 🎯 Open to junior dev roles, internships & collaborations
 - 🎬 Content creator on TikTok & Instagram on the side
 - 😄 Pronouns: she/her
@@ -17,6 +18,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 
 ---
