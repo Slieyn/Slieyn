@@ -6,6 +6,7 @@
 - 🎓 Software Development graduate — CodeSpace Academy (2025)
 - 🌱 Currently building: a Vue 3 job application tracker with Kanban board & Pinia, Job Application tracker.
 - 🎯 Open to junior dev roles, internships & collaborations
+- 😄I have completed SQL Certificate from SoloLearn, as well as their AI-Powered A/B Testing Certificate.
 - 🎬 Content creator on TikTok & Instagram on the side
 - 😄 Pronouns: she/her
 - 📫 Reach me: [linkedin.com/in/silindokuhle-ngubane-2850b3211](https://linkedin.com/in/silindokuhle-ngubane-2850b3211)
@@ -33,6 +34,9 @@
 | [Module 9](https://github.com/Slieyn/Module_9_SILINGU577_Group_A_Silindokuhle-Ngubane_SDF09) | JavaScript fundamentals |
 |(https://github.com/Slieyn/Job-Application-Tracker) | React|
 
+| Certificates | Completed | 🎓🏅
+| https://www.sololearn.com/certificates/CC-EQCIUEIO |
+| https://www.sololearn.com/certificates/CC-O3SRX066 |
 ---
 
 *The sky is the limit — and so it is with code.* ✨
