@@ -1,7 +1,8 @@
 # Hi, I'm Silindokuhle (Sliey) 👩🏾‍💻
-- 💪 I am currently enrolled at Dynamic DNA for Systems Development.
+- 💪 I am currently enrolled at Dynamic DNA for a Systems Development Learnership.
 - 🚀 Junior Frontend Developer based in Johannesburg
-- 💻 Skilled in Vue.js, HTML, CSS  TypeScript, JavaScript, React and C#
+- 🌟 Currently working on learning AI-901 from Microsoft Learn.
+- 💻 Skilled in Vue.js, HTML, CSS  TypeScript, JavaScript, React and C# and SQL.
 - 📚I am currenctly At Dynamic DNA for a Systems Development. 
 - 🎓 Software Development graduate CodeSpace Academy (2025)
 - 🌱 Currently building: a Vue 3 job application tracker with Kanban board & Pinia, Job Application tracker.
