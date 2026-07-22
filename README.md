@@ -45,4 +45,4 @@ AI-Powered A/B Testing 🤖
  
 ---
 
-*The sky is the limit — and so it is with code.* ✨
+*The sky is the limit and so it is with code.* ✨
