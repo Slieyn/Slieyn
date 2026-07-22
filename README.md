@@ -37,6 +37,7 @@
 | [Job Application Tracker](https://github.com/Slieyn/Job-Application-Tracker) | Built with React |
 
 | Certificates | Completed | 🎓🏅|
+
 Introduction To SQL 💻
  https://www.sololearn.com/certificates/CC-EQCIUEIO 
 
