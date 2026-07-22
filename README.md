@@ -29,7 +29,8 @@
 
 | Project | Description |
 |---|---|
-| [My Personal Website] (https://github.com/Slieyn/MY-WEBSITE)| Personal Website.
+| [My Personal Website] (https://github.com/Slieyn/MY-WEBSITE) |
+| Personal Website.|
 | [Job Tracker App](https://github.com/Slieyn) | Vue 3 · Pinia · Kanban board · Dark mode |
 | [SDF Portfolio Piece](https://github.com/Slieyn/SDF_Portfolio_Piece_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF11) | Frontend capstone project — CodeSpace Academy |
 | [Module 10](https://github.com/Slieyn/Module_10_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF10) | JavaScript project |
