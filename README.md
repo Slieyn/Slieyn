@@ -34,9 +34,12 @@
 | [Module 9](https://github.com/Slieyn/Module_9_SILINGU577_Group_A_Silindokuhle-Ngubane_SDF09) | JavaScript fundamentals |
 |(https://github.com/Slieyn/Job-Application-Tracker) | React|
 
-| Certificates | Completed | 🎓🏅
-| https://www.sololearn.com/certificates/CC-EQCIUEIO |
-| https://www.sololearn.com/certificates/CC-O3SRX066 |
+| Certificates | Completed | 🎓🏅|
+
+ https://www.sololearn.com/certificates/CC-EQCIUEIO 
+ 
+ https://www.sololearn.com/certificates/CC-O3SRX066
+ 
 ---
 
 *The sky is the limit — and so it is with code.* ✨
