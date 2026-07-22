@@ -35,9 +35,10 @@
 |(https://github.com/Slieyn/Job-Application-Tracker) | React|
 
 | Certificates | Completed | 🎓🏅|
-
+|Introduction To SQL 💻|
  https://www.sololearn.com/certificates/CC-EQCIUEIO 
- 
+
+| AI-Powered A/B Testing 🤖 |
  https://www.sololearn.com/certificates/CC-O3SRX066
  
 ---
