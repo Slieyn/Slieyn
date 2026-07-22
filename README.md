@@ -35,8 +35,8 @@
 | [Module 10](https://github.com/Slieyn/Module_10_SILINGU577_PTO2403_GroupA_Silindokuhle-Ngubane_SDF10) | JavaScript project |
 | [Module 9](https://github.com/Slieyn/Module_9_SILINGU577_Group_A_Silindokuhle-Ngubane_SDF09) | JavaScript fundamentals |
 | [Job Application Tracker](https://github.com/Slieyn/Job-Application-Tracker) | Built with React |
-| Certificates | Completed | 🎓🏅|
 
+| Certificates | Completed | 🎓🏅|
 Introduction To SQL 💻
  https://www.sololearn.com/certificates/CC-EQCIUEIO 
 
